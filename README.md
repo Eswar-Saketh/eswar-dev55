@@ -59,7 +59,9 @@ Currently learning React, Linux, SQL, and building projects daily.
 
 # 📫 How to reach me:
 
-- LinkedIn: https://www.linkedin.com/in/eswarsaketh-maturi
-- Email: eswarsakethm@gmail.com
+* LinkedIn: https://www.linkedin.com/in/eswarsaketh-maturi
+* Twitter/X: https://x.com/MEswarSaketfmx
+* Email: eswarsakethm@gmail.com
+
 
 
