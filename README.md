@@ -61,7 +61,6 @@ Currently learning React, Linux, SQL, and building projects daily.
 
 * LinkedIn: https://www.linkedin.com/in/eswarsaketh-maturi
 * Twitter/X: https://x.com/MEswarSaketfmx
-* Portfolio: https://eswar-saketh-portfolio.netlify.app
 * Email: eswarsakethm@gmail.com
 
 
