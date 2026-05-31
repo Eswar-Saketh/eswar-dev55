@@ -1,4 +1,4 @@
-🧑‍💻# Hi there, I'm Eswar Saketh Maturi 👋
+# Hi there, I'm Eswar Saketh Maturi 👋
 
 ---
 
